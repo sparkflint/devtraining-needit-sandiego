@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>test1</description>
+        <device_type>browser</device_type>
+        <hint>demo</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_58872_needit.demo test</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 16:23:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d1c8c9697311110598e50081153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo test1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_3d1c8c9697311110598e50081153afad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 16:23:38</sys_updated_on>
+        <title>demo test1</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>228b5112dba24c102f68c5970596194f</instance_id>
+        <instance_name>dev97803</instance_name>
+        <name>sys_app_application_3d1c8c9697311110598e50081153afad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>test1</description><device_type>browser</device_type><hint>demo</hint><name/><order>100</order><roles>x_58872_needit.demo test</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-09 16:23:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d1c8c9697311110598e50081153afad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>demo test1</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_3d1c8c9697311110598e50081153afad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-09 16:23:38</sys_updated_on><title>demo test1</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1476632133</payload_hash>
+        <record_name>demo test1</record_name>
+        <reverted_from/>
+        <source>a31a74db2f3011101c5fd0e62799b645</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 16:23:38</sys_created_on>
+        <sys_id>932ccc9697311110598e50081153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18323105d5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 16:23:38</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>db2ccc96cb311110394dca79f25de1bf</update_guid>
+        <update_guid_history>db2ccc96cb311110394dca79f25de1bf:-1476632133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="demo test1">fe3c00d697311110598e50081153afec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 16:23:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>30ed35b86a3a434e9b274c4a2a65baa1</sys_id>
+        <sys_metadata>3d1c8c9697311110598e50081153afad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo test1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_3d1c8c9697311110598e50081153afad</sys_update_name>
+        <sys_update_version display_value="sys_app_application_3d1c8c9697311110598e50081153afad">932ccc9697311110598e50081153afc0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 16:23:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
